@@ -1,2 +1,2 @@
 # Simple-SSO-using-JWT
-Single Sign On using JSON Web Token
+Simple Single Sign On Using JSON Web Token
